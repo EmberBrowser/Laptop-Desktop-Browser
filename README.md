@@ -6,7 +6,7 @@ Follow [@ember_coin](https://twitter.com/ember_coin) on Twitter for important ne
 
 ## Community
 
-Join our [Discord community chat](https://discordapp.com/invite/k57tYrS) for higher bandwidth discussions.
+Join our [Discord community chat](https://discord.gg/sEvynuz) for higher bandwidth discussions.
 
 ## Downloads
 
