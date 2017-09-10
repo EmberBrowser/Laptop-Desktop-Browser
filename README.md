@@ -16,7 +16,3 @@ To download the latest release, [see our releases page](https://github.com/Ember
 You can also [visit our website](https://www.embercoin.org) to get the latest stable release (along with a more user-friendly download page).
 # COMING SOON
 
-
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="embercoin" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
-
-
