@@ -7,47 +7,47 @@ const iconPath = getBraveExtUrl('img/newtab/defaultTopSitesIcon')
 
 module.exports.pinnedTopSites = [
   {
-    'key': 'https://twitter.com/brave/|0',
+    'key': 'https://twitter.com/ember_coin/|0',
     'count': 0,
     'favicon': `${iconPath}/twitter.png`,
-    'location': 'https://twitter.com/brave/',
+    'location': 'https://twitter.com/ember_coin/',
     'themeColor': 'rgb(255, 255, 255)',
-    'title': 'Brave Software (@brave) | Twitter'
+    'title': 'Ember Coin EMB (@ember_coin) | Twitter'
   }
 ]
 
 module.exports.topSites = [
   {
-    'key': 'https://twitter.com/brave/|0',
+    'key': 'https://twitter.com/ember_coin/|0',
     'count': 0,
     'favicon': `${iconPath}/twitter.png`,
-    'location': 'https://twitter.com/brave',
+    'location': 'https://twitter.com/ember_coin/',
     'themeColor': 'rgb(255, 255, 255)',
-    'title': 'Brave Software (@brave) | Twitter'
+    'title': 'Ember Coin EMB (@ember_coin) | Twitter'
   },
   {
-    'key': 'https://www.facebook.com/BraveSoftware/|0',
+    'key': 'https://www.facebook.com/EmberCoin/|0',
     'count': 0,
     'favicon': `${iconPath}/facebook.png`,
-    'location': 'https://www.facebook.com/BraveSoftware/',
+    'location': 'https://www.facebook.com/EmberCoin/',
     'themeColor': 'rgb(59, 89, 152)',
-    'title': 'Brave Software | Facebook'
+    'title': 'Ember Coin | Facebook'
   },
   {
-    'key': 'https://www.youtube.com/bravesoftware/|0',
+    'key': 'https://www.youtube.com/playlist?list=PLhRHIJlQowlhcP6HioUU-w7SGeK4iTNoP|0',
     'count': 0,
     'favicon': `${iconPath}/youtube.png`,
-    'location': 'https://www.youtube.com/bravesoftware/',
+    'location': 'https://www.youtube.com/playlist?list=PLhRHIJlQowlhcP6HioUU-w7SGeK4iTNoP',
     'themeColor': '#E62117',
-    'title': 'Brave Browser - YouTube'
+    'title': 'Ember Coin - YouTube Channel'
   },
   {
-    'key': 'https://brave.com/|0',
+    'key': 'https://www.embercoin.io/|0',
     'count': 0,
-    'favicon': `${iconPath}/brave.ico`,
-    'location': 'https://brave.com/',
+    'favicon': 'http://www.iconj.com/ico/h/2/h28ljfo2ws.ico/|0',
+    'location': 'https://www.embercoin.io/',
     'themeColor': 'rgb(255, 255, 255)',
-    'title': 'Brave Software | Building a Better Web'
+    'title': 'Ember Coin | Ember Browser'
   },
   {
     'key': 'https://itunes.apple.com/app/brave-web-browser/id1052879175?mt=8|0',
@@ -55,7 +55,7 @@ module.exports.topSites = [
     'favicon': `${iconPath}/appstore.png`,
     'location': 'https://itunes.apple.com/app/brave-web-browser/id1052879175?mt=8',
     'themeColor': 'rgba(255, 255, 255, 1)',
-    'title': 'Brave Web Browser: Fast with built-in adblock on the App Store'
+    'title': 'Ember Browser: The Crypto Browser'
   },
   {
     'key': 'https://play.google.com/store/apps/details?id=com.brave.browser|0',
@@ -63,6 +63,6 @@ module.exports.topSites = [
     'favicon': `${iconPath}/playstore.png`,
     'location': 'https://play.google.com/store/apps/details?id=com.brave.browser',
     'themeColor': 'rgb(241, 241, 241)',
-    'title': 'Brave Browser: Fast AdBlock – Apps para Android no Google Play'
+    'title': 'Ember Browser: The Crypto Browser on Google Play'
   }
 ]
